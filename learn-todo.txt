@@ -5,4 +5,4 @@ Daily Activity
 - Belajar Problem Solving
 - Belajar C++
 - Belajar Web Dev
-- Belajar Java
+- Belajar Ubuntu
