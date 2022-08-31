@@ -4,3 +4,5 @@ Daily Activity
 - Belajar dari Mistake
 - Belajar Problem Solving
 - Belajar C++
+- Belajar Web Dev
+- Belajar Java
