@@ -7,3 +7,4 @@ Belajar WebDev
   3. variabel & tipe data
   4. Operator
   5. Looping
+  6. function
