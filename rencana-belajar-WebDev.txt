@@ -5,3 +5,6 @@ Belajar WebDev
   1. Penulisan Javascript
   2. code structure
   3. variabel & tipe data
+  4. operator 
+  5. condition
+  6. function
