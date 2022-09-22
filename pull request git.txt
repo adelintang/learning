@@ -1,0 +1,2 @@
+mencoba pull request via git remote [akun asal, akun saya, local]
+-perubahan dari akun saya dan local menuju repo asal(akun asal)
