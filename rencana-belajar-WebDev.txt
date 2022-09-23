@@ -9,3 +9,4 @@ Belajar WebDev
   5. condition
   6. Looping
   7. function
+  8. Array
